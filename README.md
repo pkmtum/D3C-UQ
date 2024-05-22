@@ -3,7 +3,7 @@
 Code will be made available shortly.
 
 ## Citation
-'''
+```python
 @article{agrawal2024probabilistic,
   title={A probabilistic, data-driven closure model for RANS simulations with aleatoric, model uncertainty},
   author={Agrawal, Atul and Koutsourelakis, Phaedon-Stelios},
@@ -12,5 +12,4 @@ Code will be made available shortly.
   pages={112982},
   year={2024},
   publisher={Elsevier}
-}
-'''
+```
